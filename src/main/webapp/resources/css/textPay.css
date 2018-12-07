@@ -1,0 +1,42 @@
+/*全站初始化样式*/
+body{font:12px/24px  arial,tahoma,'Microsoft Yahei', '微软雅黑';color:#666;background-color:#fff;}
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0}
+label {cursor:pointer;}
+ol,ul,li{list-style:none;}
+em,b,i,u{font-style:normal;font-weight:normal;text-decoration:none;}
+table{border-collapse:collapse;}
+fieldset,img,input,button{ border:none}
+a{text-decoration:none;color:#333;outline:none;}
+a:hover{text-decoration:none;color:#f0a46a;}
+.clearfix:after{content:"\0020"; height:0; display:block; clear:both; overflow:hidden}
+.clearfix{*zoom:1;}
+body,div,td,li,p{line-height: 1.6;text-align: left;vertical-align: top;}
+/*样式*/
+.head{width: 100%;height: 80px;background-color: #2f477b;}
+.head-box{width: 90%;margin: 0 auto;position: relative;}
+.fl{float: left;}
+.fr{float: right;}
+.mt5{margin-top: 5px}
+.mt10{margin-top: 10px}
+.mt30{margin-top: 30px}
+.ml30{margin-left: 30px}
+.mb10{margin-bottom: 10px}
+.language{color: #fff;margin-top: 25px}
+.language-sel{color: #999;width: 100px;border: 1px solid #999;padding: 5px;margin: 0 0 5px 0;border-radius: 5px;font-style: italic;box-sizing: border-box;outline: none;}
+.content{width: 90%;margin: 10px auto;position: relative;}
+.content-left{width: 34%;background-color: #fcfcfc;min-width: 255px;height: 556px}
+.content-title{width: 100%;height: 35px;background-color: #2a81c7;color: #fff}
+.title1{padding: 7px 0 0 7px;font-size: 14px;font-weight: bold;}
+.order{color: #FF6633}
+td{padding: 5px}
+.left-p{margin-bottom: 10px;padding: 7px}
+.left-logo tr{height: 45px}
+.content-right{width: 65%;background-color: #fcfcfc;}
+.tdlab{width: 20%;text-align: right;}
+.red12{color: red;font-size: 12px}
+textarea, input[type='text'], input[type='password'], input[type='number'], input[type='email'], input[type='url'] { background-color: #fff; border: solid 1px #999;padding: 5px;margin: 0 0 5px 0;outline:none;-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
+.content-right .language-sel{width: 72px}
+input[maxlength='4'] {width:35px;}
+.btn{padding: 20px 0 0 150px;background-color: #fff;height: 100px}
+.btn>input{width: 172px;height: 35px;background-color: #2f477b;color: #fff;cursor: pointer;border: none;border-radius: 5px;outline: none;}
+.img1{position: relative;top: -6px}
